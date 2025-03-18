@@ -24,14 +24,15 @@ This program provides a menu-driven interface that allows the user to perform di
 
 Choose an option:
 
-1 : Add two numbers
-2 : Find Square of a number
-3 : Exit 
-Your choice: 1 
-Enter first number: 5 
-Enter second number: 7 
-Sum: 12 (Loop repeats...)
+1. Add two numbers  
+2. Find Square of a number  
+3. Exit  
 
+Your choice: 1  
+Enter first number: 5  
+Enter second number: 7  
+Sum: 12  
+(Loop repeats...)
 
 ## 💡 Bonus Feature
 The program can handle invalid input using **try-catch** blocks to ensure the user is prompted again if any unexpected input occurs.
