@@ -6,14 +6,15 @@ This repository contains a **Java program that prints a structured number patter
 
 ## 🔍 Understanding the Pattern  
 
-The program prints the following output:  
+The program prints the following output: 
 
+```
 1
 22
 333
 4444
 55555
-
+```
 
 Each row consists of **repeating digits**, where the row number determines both the **value** and the **count** of the digits. This pattern is achieved using **nested loops**, a key concept in iterative programming.  
 
